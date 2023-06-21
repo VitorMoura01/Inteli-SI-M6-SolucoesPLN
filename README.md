@@ -87,12 +87,12 @@ O Google Maps Platform pode ser usado para criar um aplicativo que mostra a loca
 
 Neste primeiro exemplo podemos observar como o Google Maps Platform pode ser usado para criar um forms que mostra a localização do endereço inserido por um usuário instantaneamente, permitindo que você se localize mais facilmente.
 
-![maps1](https://github.com/VitorMoura01/M6-S9_Solucoes_PLN/tree/main/assets/maps1.png)
+<img src= https://github.com/VitorMoura01/M6-S9_Solucoes_PLN/tree/main/assets/maps1.png>
 
 Além disso o endereço ja é autocompletado através de uma sugestão de endereço, permitindo que você não precise digitar o endereço completo.
 
-![maps2](https://github.com/VitorMoura01/M6-S9_Solucoes_PLN/tree/main/assets/maps2.png)
+<img src= https://github.com/VitorMoura01/M6-S9_Solucoes_PLN/tree/main/assets/maps2.png>
 
 Por fim, o endereco é mostrado no mapa, permitindo que você visualize a localização do endereço.
 
-![maps3](https://github.com/VitorMoura01/M6-S9_Solucoes_PLN/tree/main/assets/maps3.png)
+<img src= https://github.com/VitorMoura01/M6-S9_Solucoes_PLN/tree/main/assets/maps3.png>
